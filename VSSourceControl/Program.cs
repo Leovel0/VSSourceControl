@@ -15,7 +15,7 @@ namespace VSSourceControl
             Console.WriteLine("Hello World! from fourth commit at master branch!");
             Console.WriteLine("application is running new feature!");
 
-            Console.WriteLine("damage any key to application...");
+            Console.WriteLine("press any key to application...");
 
             Console.ReadKey();
 
