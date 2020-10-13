@@ -14,7 +14,6 @@ namespace VSSourceControl
             // Press Ctrl+F5 (or go to Debug > Start Without Debugging) to run your app.
             Console.WriteLine("Hello World!");
             Console.WriteLine("from fourth commit at master branch!");
-            Console.WriteLine("bug fixed! 🦟🦟🦟");
             Console.WriteLine("application is running new feature!");
             Console.ReadKey();
 
