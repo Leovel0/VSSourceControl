@@ -15,6 +15,8 @@ namespace VSSourceControl
             Console.WriteLine("Hello World! from fourth commit at master branch!");
             Console.WriteLine("application is running new feature!");
 
+            Console.WriteLine("damage any key to application...");
+
             Console.ReadKey();
 
             // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
